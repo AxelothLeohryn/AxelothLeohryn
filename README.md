@@ -8,7 +8,7 @@
 
 🎨 My favorite collaboration? Working with UI/UX teams, turning Figma designs into reality.
 
-🧑‍🎓 I'm currently working on various personal projects to put my learned skills into practice and further expand my knowledge.
+🧑‍🎓 Currently working on various personal projects to put my learned skills into practice and further expand my knowledge.
   </p>
 <div>
   <a href="https://www.linkedin.com/in/alejandro-s%C3%A1nchez-sergueev/" target="_blank">
