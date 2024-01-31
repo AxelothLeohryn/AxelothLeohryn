@@ -26,6 +26,7 @@
 
 <h2> Check out my Portfolio Website! </h2>
 <p><i>Work in progress...</i></p>
+<p><i>Feel free to explore my pinned repositories for a closer look at my work!</i></p>
 
 
 <div>
