@@ -1,15 +1,4 @@
 <h1>Hello there!👋 Welcome to my Github Profile!</h2>
-<h3> I'm Alejandro Sánchez, Junior Full Stack Developer 💻</h3>
-<p> Full-Stack developer with a background in Science.
-  
- 🚀 Passionate about development, clean code and collaboration.
-
-🤝 I excel in teamwork, having worked with diverse departments including UI/UX, data science, cybersecurity, marketing, and DevOps. 
-
-🎨 My favorite collaboration? Working with UI/UX teams, turning Figma designs into reality.
-
-🧑‍🎓 Currently working on various personal projects to put my learned skills into practice and further expand my knowledge.
-  </p>
 <div>
   </a>
   <a href="https://axeloth-portfolio.netlify.app/" target="_blank">
@@ -30,6 +19,18 @@
     <img src="https://img.shields.io/static/v1?message=CV&logo=download&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Download CV"  />
   </a>
 </div>
+<h3> I'm Alejandro Sánchez, Junior Full Stack Developer 💻</h3>
+<p> Full-Stack developer with a background in Science.
+  
+ 🚀 Passionate about development, clean code and collaboration.
+
+🤝 I excel in teamwork, having worked with diverse departments including UI/UX, data science, cybersecurity, marketing, and DevOps. 
+
+🎨 My favorite collaboration? Working with UI/UX teams, turning Figma designs into reality.
+
+🧑‍🎓 Currently working on various personal projects to put my learned skills into practice and further expand my knowledge.
+  </p>
+
 
 
 <div>
