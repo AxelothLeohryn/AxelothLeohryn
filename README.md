@@ -11,6 +11,10 @@
 🧑‍🎓 Currently working on various personal projects to put my learned skills into practice and further expand my knowledge.
   </p>
 <div>
+  </a>
+  <a href="https://axeloth-portfolio.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" height="35" alt="Download CV"  />
+  </a>
   <a href="https://www.linkedin.com/in/alejandro-s%C3%A1nchez-sergueev/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn Logo"  />
   </a>
@@ -26,11 +30,6 @@
     <img src="https://img.shields.io/static/v1?message=CV&logo=download&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Download CV"  />
   </a>
 </div>
-
-
-<h2> Check out my Portfolio Website! </h2>
-<p><i>Work in progress...</i></p>
-<p><i>Feel free to explore my pinned repositories for a closer look at my work!</i></p>
 
 
 <div>
