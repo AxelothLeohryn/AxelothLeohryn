@@ -31,7 +31,7 @@
 🧑‍🎓 Currently working on various personal projects to put my learned skills into practice and further expand my knowledge.
   </p>
 
-
+## 🛠 Skills
 
 <div>
   <h6>Frontend</h6>
