@@ -79,9 +79,11 @@ I consider myself a curious, creative, and collaborative person. Thanks to my ti
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <br>
     <!-- Containerization and Testing -->
-  <h6>Testing</h6>
+  <h6>Testing and Documentation</h6>
     <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"/>
     <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white"/>
+
   <br>
   <h6>Version Control, Collaboration Tools</h6>
     <!-- Version Control -->
