@@ -32,15 +32,8 @@
   </p>
 
 
-## 🚀 About Me
-My name is Alejandro, though I am often called Alex. I delved into the world of programming in 2023, and since then, I have found a new career that I am passionate about and that motivates me to keep experimenting and learning.
 
-I thoroughly enjoy creating new experiences and useful tools, and solving all the mini-challenges that arise when facing any project.
-
-I consider myself a curious, creative, and collaborative person. Thanks to my time at The Bridge, I am trained not only in the more technical aspects of development but also in project management, teamwork, frustration management, and the ability to learn new frameworks and tools (number one fan of _reading documentation_).
-
-
-## 🛠 Skills
+## Languages and Tools
 
 <div>
   <h6>Frontend</h6>
@@ -91,6 +84,14 @@ I consider myself a curious, creative, and collaborative person. Thanks to my ti
     <!-- Productivity Tools -->
     <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"/>
 </div>
+
+## About Me
+My name is Alejandro, though I am often called Alex. I delved into the world of programming in 2023, and since then, I have found a new career that I am passionate about and that motivates me to keep experimenting and learning.
+
+I thoroughly enjoy creating new experiences and useful tools, and solving all the mini-challenges that arise when facing any project.
+
+I consider myself a curious, creative, and collaborative person. Thanks to my time at The Bridge, I am trained not only in the more technical aspects of development but also in project management, teamwork, frustration management, and the ability to learn new frameworks and tools (number one fan of _reading documentation_).
+
 
 <br>
 
