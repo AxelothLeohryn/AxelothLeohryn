@@ -25,14 +25,17 @@
 <h3> I'm Alejandro Sánchez, Junior Full Stack Developer 💻</h3>
 <p> Full-Stack developer with a background in Science.
   
- 🚀 Passionate about development, clean code and collaboration.
+ 🚀 Passionate about development, clean code, and collaboration.
 
 🤝 I excel in teamwork, having worked with diverse departments including UI/UX, data science, cybersecurity, marketing, and DevOps. 
 
 🎨 My favorite collaboration? Working with UI/UX teams, turning Figma designs into reality.
 
 🧑‍🎓 Currently working on various personal projects to put my learned skills into practice and further expand my knowledge.
-  </p>
+
+🌐 Developing <a href="https://planorant.com">Planorant.</a>
+</p>
+
 
 
 
