@@ -31,7 +31,7 @@
 
 🎨 My favorite collaboration? Working with UI/UX teams, turning Figma designs into reality.
 
-🧑‍🎓 Currently working on various personal projects to put my learned skills into practice and further expand my knowledge.
+🧑‍🎓 Constantly learning and growing as a developer.
 
 🌐 Developing <a href="https://planorant.com">Planorant.</a>
 </p>
