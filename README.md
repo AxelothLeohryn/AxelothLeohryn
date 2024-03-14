@@ -35,12 +35,12 @@
 
 </p>
 
-<div style="display: flex; justify-content:middle; align-items:center">
+<div style="display: flex; justify-content:middle; align-items:center" align="center">
   <hr/ style="width:30%; margin: 0px 10px">
     <a style="border: 2px solid white; border-radius:20px; overflow:hidden" href="https://axeloth-portfolio.netlify.app/" target="_blank">
       <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" height="35" alt="Download CV"  />
     </a>
-<!--   <hr/ style="width:30%; margin: 0px 10px"> -->
+  <hr/ style="width:30%; margin: 0px 10px">
 </div>
 
 ## Languages and Tools
