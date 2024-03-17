@@ -20,7 +20,7 @@
     <img style="border-radius:10px; overflow:hidden" src="https://img.shields.io/static/v1?message=CV%20(ENG)&logo=readdotcv&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Download CV" />
 </a>
 </div>
-<h3> I'm Alejandro Sánchez, Junior Full Stack Developer 💻</h3>
+<h3> I'm Alejandro Sánchez, Jr. Full Stack Developer 💻</h3>
 <p> Full-Stack developer with a background in Science.
   
  🚀 Passionate about development, clean code, and collaboration.
