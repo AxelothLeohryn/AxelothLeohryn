@@ -13,11 +13,8 @@
   </a>
   <a href="https://www.discordapp.com/users/79590746373496832" target="_blank">
     <img style="border-radius:10px; overflow:hidden" src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Discord Logo"  />
-  <a href="https://github.com/AxelothLeohryn/AxelothLeohryn/blob/main/CV%20-%20Alejandro%20Sanchez%20Sergueev.pdf" target="_blank">
+  <a href="https://github.com/AxelothLeohryn/AxelothLeohryn/blob/main/CV%20(ENG)%20-%20Alejandro%20Sanchez%20Sergueev.pdf" target="_blank">
     <img style="border-radius:10px; overflow:hidden" src="https://img.shields.io/static/v1?message=CV&logo=readdotcv&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Download CV" />
-</a>
-<a href="https://github.com/AxelothLeohryn/AxelothLeohryn/blob/main/CV%20(ENG)%20-%20Alejandro%20Sanchez%20Sergueev.pdf" target="_blank">
-    <img style="border-radius:10px; overflow:hidden" src="https://img.shields.io/static/v1?message=CV%20(ENG)&logo=readdotcv&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Download CV" />
 </a>
 </div>
 <h3> I'm Alejandro Sánchez, Jr. Full Stack Developer 💻</h3>
