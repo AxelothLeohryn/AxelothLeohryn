@@ -18,7 +18,7 @@
 </a>
 </div>
 <h3> I'm Alejandro Sánchez, Jr. Full Stack Developer 💻</h3>
-<p> Full-Stack developer with a background in Science.
+<p> Full-Stack developer with a background in Science. Passionate about Frontend Development and UX/UI.
   
  🚀 Passionate about development, clean code, and collaboration.
 
