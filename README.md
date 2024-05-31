@@ -20,7 +20,7 @@
 <h3> I'm Alejandro Sánchez, Jr. Full Stack Developer 💻</h3>
 <p> Full-Stack developer with a background in Science. Passionate about Frontend Development and UX/UI.
   
- 🚀 Passionate about development, clean code, and collaboration.
+ 🚀 Always curious about development, clean code, and collaboration.
 
 🤝 I excel in teamwork, having worked with diverse departments including UI/UX, data science, cybersecurity, marketing, and DevOps.
 
