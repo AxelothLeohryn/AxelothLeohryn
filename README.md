@@ -92,11 +92,11 @@
 
 ## About Me
 
-My name is Alejandro, though I am often called Alex. I delved into the world of programming in 2023, and since then, I have found a new career that I am passionate about and that motivates me to keep experimenting and learning.
+🙋‍♂️ My name is Alejandro, although I'm usually called Alex. My passion is creating attractive and functional websites and interfaces, always trying to stay at the forefront of technologies and trends. I employ my Fullstack knowledge to create complete projects that are both visually appealing and user-friendly.
 
-I thoroughly enjoy creating new experiences and useful tools, and solving all the mini-challenges that arise when facing any project.
+💡 I consider myself a curious, creative, and collaborative person, who enjoys solving all the challenges that arise when facing any project. Above all, I love to learn and incorporate new tools into my development arsenal.
 
-I consider myself a curious, creative, and collaborative person. Thanks to my time at The Bridge, I am trained not only in the more technical aspects of development but also in project management, teamwork, frustration management, and the ability to learn new frameworks and tools (number one fan of _reading documentation_).
+🎓 Thanks to my experience at The Bridge bootcamp, I am trained not only in the technical aspects of development but also in project management, teamwork, frustration management, and the ability to learn new frameworks and tools (☝️#1 fan of reading the documentation).
 
 <br>
 
