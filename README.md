@@ -17,18 +17,14 @@
     <img style="border-radius:10px; overflow:hidden" src="https://img.shields.io/static/v1?message=CV&logo=readdotcv&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Download CV" />
 </a>
 </div>
-<h3> I'm Alejandro Sánchez, Jr. Full Stack Developer 💻</h3>
-<p> Full-Stack developer with a background in Science. Passionate about Frontend Development and UX/UI.
-  
- 🚀 Always curious about development, clean code, and collaboration.
+<h3> I'm Alejandro Sánchez,</h3>
+<p> 💻 Full-Stack Web Developer. Passionate about Frontend Development and UX/UI.
 
-🤝 I excel in teamwork, having worked with diverse departments including UI/UX, data science, cybersecurity, marketing, and DevOps.
+🌐 Developed <a href="https://planorant.com">Planorant.</a>
 
-🎨 My favorite collaboration? Working with UI/UX teams, turning Figma designs into reality.
+📚 Learning WebGL and Three.js to create stunning and next-lvl website designs and animations.
 
-🧑‍🎓 Constantly learning and growing as a developer.
-
-🌐 Developing <a href="https://planorant.com">Planorant.</a>
+🧑‍🎓 Constantly growing as a developer.
 
 </p>
 
