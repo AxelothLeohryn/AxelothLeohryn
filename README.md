@@ -82,9 +82,20 @@
   <h6>Version Control, Collaboration Tools</h6>
     <!-- Version Control -->
     <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+    <!-- Design -->
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
     <!-- Productivity Tools -->
     <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+    
+
+  <br>
+  <h5>New Tools I'm learning</h5>
+  <img src="https://img.shields.io/badge/three.js-000000?style=for-the-badge&logo=three.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/react_native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/blender-F5792A?style=for-the-badge&logo=blender&logoColor=white"/>
+    
 
 </div>
 
