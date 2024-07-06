@@ -20,7 +20,7 @@
 <h3> I'm Alejandro Sánchez,</h3>
 <p> 💻 Full-Stack Web Developer. Passionate about Frontend Development and UX/UI.
 
-🌐 Developed <a href="https://planorant.com">Planorant.</a>
+🌐 Developed <a href="https://planorant.com">Planorant</a>.
 
 📚 Learning WebGL and Three.js to create stunning and next-lvl website designs and animations.
 
