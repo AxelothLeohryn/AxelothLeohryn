@@ -1,10 +1,6 @@
-<h1><span style="display: inline-block;
-  color: transparent;
-  background-image: linear-gradient(to right, #50ffbc, #73d9f0);
-  -webkit-background-clip: text;
-  background-clip: text;
-  text-shadow: none; ">Hello there!</span>👋 Welcome to my Github Profile!</h2>
-<div style="display:flex; gap:5px">
+![Banner](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+<h1 align="center" >Hello there! 👋 I'm Alex! Welcome to my Github Profile!</h2>
+<div align="center" style="display:flex; gap:5px">
   <a href="https://www.linkedin.com/in/alejandro-s%C3%A1nchez-sergueev/" target="_blank">
     <img style="border-radius:10px; overflow:hidden" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn Logo"  />
   </a>
@@ -17,8 +13,8 @@
     <img style="border-radius:10px; overflow:hidden" src="https://img.shields.io/static/v1?message=CV&logo=readdotcv&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Download CV" />
 </a>
 </div>
-<h3> I'm Alejandro Sánchez,</h3>
-<p> 💻 Full-Stack Web Developer. Passionate about Frontend Development and UX/UI.
+<h3> 💻 Full-Stack Web Developer. Passionate about Frontend Development and UX/UI.</h3>
+<p>
 
 🌐 Developed <a href="https://planorant.com">Planorant</a>.
 
@@ -100,14 +96,35 @@
 </div>
 
 ## About Me
+<a target="_blank" align="right">
+  <img align="right" top="500" height="150" width="200" alt="GIF" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif">
+</a>
 
-🙋‍♂️ My name is Alejandro, although I'm usually called Alex. My passion is creating attractive and functional websites and interfaces, always trying to stay at the forefront of technologies and trends. I employ my Fullstack knowledge to create complete projects that are both visually appealing and user-friendly.
+🙋‍♂️ My name is Alejandro, although I'm usually called Alex. I employ my Fullstack knowledge to create complete projects that are both visually appealing and user-friendly. My passion is creating attractive and functional websites and interfaces, always trying to stay at the forefront of technologies and trends.
 
-💡 I consider myself a curious, creative, and collaborative person, who enjoys solving all the challenges that arise when facing any project. Above all, I love to learn and incorporate new tools into my development arsenal.
-
-🎓 Thanks to my experience at The Bridge bootcamp, I am trained not only in the technical aspects of development but also in project management, teamwork, frustration management, and the ability to learn new frameworks and tools (☝️#1 fan of reading the documentation).
-
+💡 I am a curious, creative, and collaborative person, who enjoys solving all the challenges that arise when facing any project. Above all, I love to learn and incorporate new tools into my development arsenal.
 <br>
 
-![AxelothLeohryn's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AxelothLeohryn&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-![AxelothLeohryn's Stats](https://github-readme-stats.vercel.app/api?username=AxelothLeohryn&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+<a href="https://github.com/AxelothLeohryn">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AxelothLeohryn&theme=transparent&show_icons=true&hide_border=true&count_private=true" />
+</a>
+<a href="https://github.com/AxelothLeohryn">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AxelothLeohryn&theme=transparent&show_icons=true&hide_border=true&layout=compact" />
+</a>
+
+
+<hr>
+
+<a href="https://github.com/AxelothLeohryn/planorant">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AxelothLeohryn&repo=planorant&theme=transparent" />
+</a>
+<a href="https://github.com/AxelothLeohryn/reallo-fullstack">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AxelothLeohryn&repo=reallo-fullstack&theme=transparent" />
+</a>
+<a href="https://github.com/AxelothLeohryn/zoom_clone">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AxelothLeohryn&repo=zoom_clone&theme=transparent" />
+</a>
+<a href="https://github.com/AxelothLeohryn/dismoviery-website">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AxelothLeohryn&repo=dismoviery-website&theme=transparent" />
+</a>
+
