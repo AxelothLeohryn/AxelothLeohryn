@@ -22,7 +22,7 @@
 
 🌐 Developed <a href="https://planorant.com">Planorant</a>.
 
-📚 Learning WebGL and Three.js to create stunning and next-lvl website designs and animations.
+📚 Learning WebGL and Three.js to create stunning and next level website designs and animations.
 
 🧑‍🎓 Constantly growing as a developer.
 
