@@ -32,6 +32,23 @@
   <hr/ style="width:30%; margin: 0px 10px">
 </div>
 
+## About Me
+<a target="_blank" align="right">
+  <img align="right" top="500" height="150" width="200" alt="GIF" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif">
+</a>
+
+🙋‍♂️ My name is Alejandro, although I'm usually called Alex. I employ my Fullstack knowledge to create complete projects that are both visually appealing and user-friendly. My passion is creating attractive and functional websites and interfaces, always trying to stay at the forefront of technologies and trends.
+
+💡 I am a curious, creative, and collaborative person, who enjoys solving all the challenges that arise when facing any project. Above all, I love to learn and incorporate new tools into my development arsenal.
+<br>
+
+<a href="https://github.com/AxelothLeohryn">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AxelothLeohryn&theme=transparent&show_icons=true&hide_border=true&count_private=true" />
+</a>
+<a href="https://github.com/AxelothLeohryn">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AxelothLeohryn&theme=transparent&show_icons=true&hide_border=true&layout=compact" />
+</a>
+
 ## Languages and Tools
 
 <div>
@@ -95,36 +112,6 @@
 
 </div>
 
-## About Me
-<a target="_blank" align="right">
-  <img align="right" top="500" height="150" width="200" alt="GIF" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif">
-</a>
-
-🙋‍♂️ My name is Alejandro, although I'm usually called Alex. I employ my Fullstack knowledge to create complete projects that are both visually appealing and user-friendly. My passion is creating attractive and functional websites and interfaces, always trying to stay at the forefront of technologies and trends.
-
-💡 I am a curious, creative, and collaborative person, who enjoys solving all the challenges that arise when facing any project. Above all, I love to learn and incorporate new tools into my development arsenal.
-<br>
-
-<a href="https://github.com/AxelothLeohryn">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AxelothLeohryn&theme=transparent&show_icons=true&hide_border=true&count_private=true" />
-</a>
-<a href="https://github.com/AxelothLeohryn">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AxelothLeohryn&theme=transparent&show_icons=true&hide_border=true&layout=compact" />
-</a>
-
 
 <hr>
-
-<a href="https://github.com/AxelothLeohryn/planorant">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AxelothLeohryn&repo=planorant&theme=transparent" />
-</a>
-<a href="https://github.com/AxelothLeohryn/reallo-fullstack">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AxelothLeohryn&repo=reallo-fullstack&theme=transparent" />
-</a>
-<a href="https://github.com/AxelothLeohryn/zoom_clone">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AxelothLeohryn&repo=zoom_clone&theme=transparent" />
-</a>
-<a href="https://github.com/AxelothLeohryn/dismoviery-website">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AxelothLeohryn&repo=dismoviery-website&theme=transparent" />
-</a>
 
