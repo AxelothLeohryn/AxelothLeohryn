@@ -1,7 +1,7 @@
 ![Banner](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 <h1 align="center" >Hello there! 👋 I'm Alex! Welcome to my Github Profile!</h2>
 <div align="center" style="display:flex; gap:5px">
-  <a href="https://www.linkedin.com/in/alejandro-s%C3%A1nchez-sergueev/" target="_blank">
+  <a href="https://www.linkedin.com/in/alejandrosanchezsergueev/" target="_blank">
     <img style="border-radius:10px; overflow:hidden" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn Logo"  />
   </a>
   <a href="mailto:alejandro.sanserg@gmail.com" target="_blank">
